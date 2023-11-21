@@ -1,3 +1,6 @@
 [submodule "qmk_firmware"]
 	path = qmk_firmware
 	url = git@github.com:yushakobo/qmk_firmware.git
+[submodule "leonardoUploader"]
+	path = leonardoUploader
+	url = git@github.com:vanbwodonk/leonardoUploader.git
