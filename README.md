@@ -1,2 +1,4 @@
 # ergo68
-ergo68 keyboard resources
+* [Github](https://github.com/yushakobo/build-documents/tree/master/Ergo68)
+* [Hex File](https://remap-keys.app/catalog/qIgO7rOq7GMRsGf6QhlY/firmware)
+* [Remap Tool](https://qmk018.remap-keys.app/configure)
