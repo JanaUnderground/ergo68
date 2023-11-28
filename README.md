@@ -6,4 +6,5 @@
 ## Commands
 ```bash
 qmk compile -kb yushakobo/ergo68 -km default
+leonardoUploader /dev/ttyACM0 .build/yushakobo_ergo68_default.hex
 ```
