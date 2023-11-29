@@ -10,7 +10,7 @@ leonardoUploader /dev/ttyACM0 .build/yushakobo_ergo68_default.hex
 ```
 
 ## Keymapping - CH - Miryoku Layout
-[[images/keymapping_drawio.png]]
+![alt text](images/keymapping_drawio.png)
 ```c
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         [0] = LAYOUT(
