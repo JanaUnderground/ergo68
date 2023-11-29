@@ -5,8 +5,8 @@
 
 ## Commands
 ```bash
-qmk compile -kb yushakobo/ergo68 -km default
-leonardoUploader /dev/ttyACM0 .build/yushakobo_ergo68_default.hex
+qmk compile -kb yushakobo/ergo68 -km ch-miryoku-style
+leonardoUploader /dev/ttyACM0 .build/yushakobo_ergo68_ch-miryoku-style.hex
 ```
 
 ## Keymapping - CH - Miryoku Layout
