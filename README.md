@@ -1,7 +1,14 @@
-# ergo68
+## ergo68
 * Hardware Info & Manual: [Github](https://github.com/yushakobo/build-documents/tree/master/Ergo68)
 * Download [Hex File](https://remap-keys.app/catalog/qIgO7rOq7GMRsGf6QhlY/firmware)
 * [Remap Tool](https://qmk018.remap-keys.app/configure)
+
+## QMK Links
+* [Doc: VIA and QMK Firmware](https://docs.keeb.io/via-technical)
+* [QMK Configurator](config.qmk.fm)
+* QMK Firmware: [Tap-Hold Git](https://github.com/qmk/qmk_firmware/blob/master/docs/tap_hold.md)
+* QMK Firmware: [Tap-Hold Docs](https://docs.qmk.fm/#/tap_hold)
+* QMK Firmware: [Keycodes - Full List](https://docs.qmk.fm/#/keycodes?id=mod-tap-keys)
 
 ## Commands
 ```bash
