@@ -2,6 +2,7 @@
 * Hardware Info & Manual: [Github](https://github.com/yushakobo/build-documents/tree/master/Ergo68)
 * Download Reference [Hex File](https://remap-keys.app/catalog/qIgO7rOq7GMRsGf6QhlY/firmware)
 * [Remap Tool](https://qmk018.remap-keys.app/configure)
+* [Source Code](https://github.com/yushakobo/qmk_firmware)
 
 ## QMK Links
 * [QMK Configurator](config.qmk.fm)
