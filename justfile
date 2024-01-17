@@ -6,3 +6,9 @@ build:
 
 flash:
     cd qmk_firmware && leonardoUploader /dev/ttyACM0 .build/yushakobo_ergo68_ch-miryoku-style.hex
+
+toby-build:
+    cd qmk_firmware && qmk compile -kb yushakobo/ergo68 -km toby-style
+
+toby-flash:
+    cd qmk_firmware && leonardoUploader /dev/ttyACM0 .build/yushakobo_ergo68_toby-style.hex
