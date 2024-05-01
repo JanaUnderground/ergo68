@@ -1,6 +1,11 @@
+<p align="middles">
+  <img src="images/ergo68.png" width="99%" />
+</p>
+
 ## Ergo68 Resources
+* [Available at shop.yushakobo.jp](https://shop.yushakobo.jp/en/products/ergo68)
 * Hardware Info & Manual: [Github](https://github.com/yushakobo/build-documents/tree/master/Ergo68)
-* Download Reference [Hex File](https://remap-keys.app/catalog/qIgO7rOq7GMRsGf6QhlY/firmware)
+* [Hex File Download](https://remap-keys.app/catalog/qIgO7rOq7GMRsGf6QhlY/firmware)
 * [Remap Tool](https://qmk018.remap-keys.app/configure)
 * [Source Code](https://github.com/yushakobo/qmk_firmware)
 
